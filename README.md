@@ -1,7 +1,6 @@
 # StudyGit
 
-
-edit the file
+edit the file changed
 branch testing1
-commit1
+commit3
 c1
